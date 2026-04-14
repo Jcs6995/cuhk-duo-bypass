@@ -65,3 +65,7 @@ sudo docker run -it --name duo-bypass cuhk-duo-bypass
 - Enter this activation code when the running container's script prompts it.
 - The script will handle the cryptographic exchange and register itself.
 - **Leave the container running 24/7:** To exit the terminal session without killing the Docker container, use the detach command: press `Ctrl + P` followed by `Ctrl + Q` on your keyboard. This leaves everything running quietly in the background.
+
+
+### 5. Login
+- Click "Other options" and then send the Duo push to Android.
